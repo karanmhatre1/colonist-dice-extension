@@ -3,7 +3,8 @@ A chrome extension to use while playing Catan online (colonist.io) to know how m
 
 ![screenshot](https://i.ibb.co/VqR5SBx/screenshot.png)
 
-"6 just isn't rolling this game." 
+> "6 just isn't rolling this game." - Everyone playing Catan
+
 Now you can actually check if it is or isn't.
 
 The extension is still in review on the Chrome Store. 
