@@ -5,7 +5,7 @@ chrome.runtime.sendMessage({
  });
 
 function calculateProb(document_root) {
-   var x = document.querySelectorAll("#game-log-text > p");
+   var x = document.querySelectorAll("#game-log-text > div");
   // var x = 
 
   var result = "";
